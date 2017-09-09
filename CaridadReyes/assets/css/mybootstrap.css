@@ -1,0 +1,7 @@
+/* mybootstrap.css */
+
+.container {width: 1000px;}
+
+.header, .footer {background-color: gray;}
+
+.new_student { min-height: 549px;}
